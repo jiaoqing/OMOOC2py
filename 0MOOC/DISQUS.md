@@ -32,6 +32,12 @@ $ npm install gitbook-plugin-disqus
 ## 使用
 
 
+再次运行命令：
+
+$ gitbook serve -p 8080 .
+
+并刷新浏览器，即可看到附加了Disqus评论的页面。
+
 
 
 
